@@ -64,6 +64,7 @@ Follow the installation instructions for each of the pre-requisite software ment
 1. Open Reaper.
 2. Go to Preferences > MIDI Devices.
 3. Enable the virtual MIDI port you created in LoopMIDI as an input device.
+4. To fully utilize this Theremin MIDI Controller, ensure you have MIDI instrument plugins and a drum plugin set up in your DAW. These plugins will interpret the MIDI signals from the controller and produce the corresponding sounds and rhythms.
 
 ## Using the Device
 
