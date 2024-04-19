@@ -1,6 +1,6 @@
-# Theremin MIDI Controller Project
+# Arduino MIDI Controller Project
 
-This project transforms an Arduino Uno, equipped with two ultrasonic sensors, a Liquid Crystal Display and a button, into a Theremin MIDI Controller. Utilizing FreeRTOS for multitasking, this controller sends MIDI signals to a DAW (Digital Audio Workstation), creating musical notes based on the proximity of the user's hands to the sensors. This README provides detailed instructions on how to clone the project, set up the required software, and operate the device.
+This project uses an Arduino Uno, equipped with two ultrasonic sensors, a Liquid Crystal Display and a button, into a Theremin style MIDI Controller. Using FreeRTOS for multitasking, this controller sends MIDI signals to a DAW (Digital Audio Workstation), creating musical notes based on the proximity of the user's hands to the sensors. This README provides detailed instructions on how to clone the project, set up the required software, and operate the device.
 
 ## Prerequisites
 
@@ -25,13 +25,13 @@ You can download these from their respective websites:
 2. Navigate to the directory where you want to clone the project.
 3. Execute the following command to clone the repository:
    ```bash
-   git clone https://github.com/BrianKellyCS/Theremin_MIDI_Controller
+   git clone https://github.com/BrianKellyCS/Arduino_MIDI_Controller
    ```
 ### Setting Up the Project Directory
 
 After cloning, navigate into the project directory:
     ```
-    cd Theremin_MIDI_Controller
+    cd Arduino_MIDI_Controller
     ```
 
 ### Software Setup
